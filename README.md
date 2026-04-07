@@ -10,7 +10,7 @@ This is a high-speed AI chatbot built using the **Groq API** and **Gradio**.
 
 ## 📸 Screenshots
 ### The Interface
-![Chatbot Interface](Front End.png)
+![Chatbot Interface](Front_End.png)
 
 ### The Code
 ![Code Snippet](Backend.png)
